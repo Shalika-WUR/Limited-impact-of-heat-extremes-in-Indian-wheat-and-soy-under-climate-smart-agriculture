@@ -1,4 +1,4 @@
-This repository provides the codes for the analysis done "Limited impact of heat extremes in Indian wheat and soy under climate-smart agriculture". 
+This repository provides the codes for the analysis done in "Limited impact of heat extremes in Indian wheat and soy under climate-smart agriculture". 
 
 You find the following R codes:
 
